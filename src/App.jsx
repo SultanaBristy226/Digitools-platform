@@ -1,7 +1,7 @@
 import { Suspense, useState } from "react";
 import "./App.css";
 
-import NavBar from "./components/homePage/NavBar/NavBar";
+import NavBar from "./components/homePage/NavBar";
 
 import DigitalTools from "./components/homePage/digitalTools/DigitalTools";
 import Footer from "./components/homePage/footer/Footer";
